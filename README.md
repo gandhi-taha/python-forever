@@ -46,7 +46,7 @@
 <center>Enjoy Coding 😇️ </center>
 <div align="center">
 <h1> Python Forever: Module 01 - Introduction </h1>
- <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/taha-gandhi-5525b1160">
+ <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/taha-gandhi-b8304a259/">
   <img alt="Linkedin Follow" src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
   <a class="header-badge" target="_blank" href="https://twitter.com/gandhi_taha">
@@ -293,7 +293,7 @@ To check the data type of certain data/variable we use the **type** function. In
 
 ### Python File
 
-First open your project folder, 30ModulesOfPython. If you don't have this folder, create a folder name called 30ModulesOfPython. Inside this folder, create a file called helloworld.py. Now, let's do what we did on python interactive shell using visual studio code.
+First open your project folder, 30 Modules Of Python Forever. If you don't have this folder, create a folder name called 30 Modules Of Python Forever. Inside this folder, create a file called helloworld.py. Now, let's do what we did on python interactive shell using visual studio code.
 
 The Python interactive shell was printing without using **print** but on visual studio code to see our result we should use a built in function *print(). The *print()* built-in function takes one or more arguments as follows *print('arument1', 'argument2', 'argument3')*. See the examples below.
 
