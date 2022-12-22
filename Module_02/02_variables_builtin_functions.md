@@ -295,4 +295,4 @@ Number data types in Python:
 
 CONGRATS ! 
 
-[<< Module 1](../readme.md) | [Module 3 >>](../03_Module_Operators/03_operators.md)
+[<< Module 1](../readme.md) | [Module 3 >>](../Module_03/03_Operators.md)

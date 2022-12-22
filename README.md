@@ -6,8 +6,8 @@
 |   Modules  | Topics                                                    |
 |-----------|:------------------------------------------------------------------------------------------------------------- |
 |  01  | [Introduction](./readme.md)
-|  02   |  [Data Types](./02_Module_Data_types/02_day_data_types.md)  |
-|  03   |  [Booleans, Operators, Date](./03_Module_Booleans_operators_date/03_booleans_operators_date.md)  |
+|  02   |  [Built in Fuctions](./Module_02/02_variables_builtin_functions.md)  |
+|  03   |  [Operators](./Module_03/03_Operators.md)  |
 |  04   |  [Conditionals](./04_Module_Conditionals/04_day_conditionals.md)  |
 |  05   |  [Arrays](./05_Module_Arrays/05_day_arrays.md)  |
 |  06   |  [Loops](./06_Module_Loops/06_day_loops.md) |
